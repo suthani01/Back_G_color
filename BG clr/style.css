@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to right, #414ca5, #3cb98d);
+    margin: 0; /* Remove default margin to avoid spacing around the body */
+    font-family: Arial, sans-serif; /* Choose an appropriate font-family */
+}
+
+h1 {
+    letter-spacing: 5px;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px; /* Add some top margin to h1 for spacing */
+}
+
+h2, h3 {
+    text-align: center;
+    margin-top: 10px; /* Add some top margin to h2 and h3 for spacing */
+}
